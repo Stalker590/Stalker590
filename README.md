@@ -1,16 +1,64 @@
-## Hi there 👋
+&lt;img src=&quot;photo.png&quot; alt=&quot;Боднар Олександр Миколайович&quot; width=&quot;140&quot; /&gt;
 
-<!--
-**Stalker590/Stalker590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Боднар Олександр Миколайович
 
-Here are some ideas to get you started:
+**Junior DevOps Engineer · Systems & Automation Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 📍 Україна / Remote · ✈️ Telegram: [@Stalker590](https://www.google.com/search?q=https://t.me/Stalker590) · ✉️ Email: [sanyastalker1941@gmail.com](mailto:sanyastalker1941@gmail.com) · 💻 GitHub: [github.com/Stalker590](https://github.com/Stalker590) · 🌐 DOU: [dou.ua/users/oleksandr-bodnar-7](https://dou.ua/users/oleksandr-bodnar-7)
+
+📄 **[Завантажити / відкрити резюме у PDF](CV.pdf)** · 📝 **[Текстова версія CV (Markdown)](CV.md)**
+
+---
+
+## 👤 Про мене
+
+Студент комп'ютерних наук із фокусом на DevOps-інженерію, Linux-адміністрування та автоматизацію інфраструктури. Швидко вчуся в бойових умовах, перетворюю теорію на працюючі сервіси та орієнтуюся на вимірюваний результат команди. Ціную конструктивні дискусії, здорову критику й уміння вчитися як на власному досвіді, так і на чужих кейсах.
+
+---
+
+## 🛠️ Технічний стек (Hard Skills)
+
+| Категорія | Стек та навички |
+| :--- | :--- |
+| **OS & Virtualization** | `Linux` · `systemd` · `Bash` · `KVM/QEMU` |
+| **Containers & Orchestration** | `Docker` · `Docker Compose` · `Kubernetes (базовий)` |
+| **CI/CD & VCS** | `Git` · `GitHub Actions` · `Автоматизація деплою` |
+| **Networking & Hosting** | `TCP/IP` · `DNS` · `Nginx` · `Cloudflare Tunnels` — розгортання та підтримка веб-хостингу і виділених серверів |
+| **Databases** | `PostgreSQL` · `MySQL / MariaDB` |
+| **AI & Automation** | `AI-Agent Development` · `LLM API` · `Tool Calling` — автоматизація робочих процесів |
+
+---
+
+## 💼 Портфоліо та практичні проєкти
+
+### 1. Самостійне розгортання та адміністрування інфраструктури
+- Розгортання й налаштування Linux-серверів, конфігурація системних сервісів (`systemd`) та автоматизація рутинних операцій через Bash-скрипти.
+- Контейнеризація веб-сервісів у **Docker** та **Docker Compose**, маршрутизація трафіку через reverse-proxy (**Nginx**), захищені **Cloudflare Tunnels** та робота з СУБД (**PostgreSQL**, **MySQL / MariaDB**).
+
+### 2. Розробка ІІ-агентів та автоматизація
+- Проєктування та інтеграція автономних AI-агентів із використанням **LLM API** та механізмів **Tool Calling** для оптимізації рутинних технічних задач.
+
+### 3. Геймдев та розробка мультиплеєрних проєктів (`open.mp`)
+- Реалізація низки ігрових та мультиплеєрних проєктів (зокрема на базі **open.mp**): розробка серверної логіки, інтеграція з базами даних, оптимізація продуктивності та розгортання ігрових серверів.
+
+> 🔗 *Інші проєкти та код закріплені нижче в профілі GitHub або доступні в розділі [Repositories](https://www.google.com/search?q=https://github.com/Stalker590%3Ftab%3Drepositories).*
+
+---
+
+## 🎓 Освіта
+
+- **Європейський університет** — Бакалавр, Комп'ютерні науки (студент)
+
+---
+
+## 🛡️ Принципи роботи та Soft Skills
+
+- **Командний результат:** підтримка колег, відкритий обмін знаннями та фокус на спільній ефективності.
+- **Конструктивність:** повага до альтернативної думки, готовність аргументовано дискутувати заради кращого технічного рішення.
+- **Адаптивність:** швидке навчання на практиці під час виконання реальних задач і превентивний аналіз чужих помилок.
+
+---
+
+## ⚡ Інтереси
+
+Мотоспорт, плавання, фізична праця та активний рухливий спосіб життя — фізична витривалість допомагає розвантажити голову і жити афігенно.
