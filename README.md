@@ -4,7 +4,7 @@
 
 > 📍 Україна / Remote · ✈️ Telegram: [@Stalker590](https://www.google.com/search?q=https://t.me/Stalker590) · ✉️ Email: [sanyastalker1941@gmail.com](mailto:sanyastalker1941@gmail.com) · 🌐 DOU: [dou.ua/users/oleksandr-bodnar-7](https://dou.ua/users/oleksandr-bodnar-7)
 
-📄 **[Завантажити / відкрити резюме у PDF](CV.pdf)** · 📝 **[Текстова версія CV (Markdown)](CV.md)** . **💻 Портфоліо: [github.com/Stalker590](https://github.com/Stalker590)**
+📄 **[Завантажити / відкрити резюме у PDF](CV.pdf)** | 📝 **[Текстова версія CV (Markdown)](CV.md)** | **💻 Портфоліо: [github.com/Stalker590](https://github.com/Stalker590)**
 
 ---
 
