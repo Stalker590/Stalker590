@@ -1,5 +1,3 @@
-&lt;img src=&quot;photo.png&quot; alt=&quot;Боднар Олександр Миколайович&quot; width=&quot;140&quot; /&gt;
-
 # Боднар Олександр Миколайович
 
 **Junior DevOps Engineer · Systems & Automation Enthusiast**
